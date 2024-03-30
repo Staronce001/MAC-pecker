@@ -1,5 +1,5 @@
 # 运行方式
-下载MAC-pecker.zip，将MAC-pecker.Rmd, MP.RData, uE.Rdata, logo.png解压在同一目录下：
+下载MAC-pecker.zip，将MAC-pecker.Rmd, MP.RData, uE.Rdata, logo.png解压在同一目录下，任选一种方式：
 
 1、使用命令执行MAC-pecker.Rmd：
 
