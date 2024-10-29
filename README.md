@@ -9,6 +9,7 @@ R -e "rmarkdown::render('MAC-pecker.Rmd',output_file='output.html')"
 方式二 使用RStudio打开Rmd文件运行
 
 # 使用说明
+  MAC-pecker交互界面  
 ![image](https://github.com/user-attachments/assets/f6684206-31ba-47b5-8f35-0d6d3342808a)  
   运行RMD文件后，进入MAC-Pecker操作界面，界面分为左侧的操作区和右侧的展示区。
 使用时先在操作区选择预测方式，选择“MC”以预测一定MC下应达的PC率，选择“PC”以预测一定PC率下的MC率，此处以选择预测方式为“MC”为例展示操作：
